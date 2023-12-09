@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "firstname": "mike",
+    "lastname": "tyson",
+    "age": 50,
+    "country":"United States",
+    "picture": ""
+  },
+  {
+    "id": 2,
+    "firstname": "Floyd",
+    "lastname": "Mayweather",
+    "age": 46,
+    "country": "United States",
+    "picture": ""
+  },
+  {
+    "id": 3,
+    "firstname": "Conor",
+    "lastname": "McGregor",
+    "age": 35,
+    "country": "Ireland",
+    "picture": ""
+  },
+  {
+    "id": 4,
+    "firstname": "Khabib",
+    "lastname": "Nurmagomedov",
+    "age": 35,
+    "country": "Russia",
+    "picture": ""
+  }
+]

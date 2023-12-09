@@ -1,1 +1,7 @@
-<h1>Hello World!</h1>
+<h1 style="color: blue; background-color: red; margin: 50px">King of The Ring</h1>
+
+<h2>Users: </h2>
+<div *ngFor="let boxer of boxers$ | async">
+  <h4>{{boxer.firstname}} {{boxer.lastname}}</h4>
+ <b>{{boxer.age}}</b>
+</div>

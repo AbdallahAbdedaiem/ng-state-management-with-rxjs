@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstname": "mike",
+    "lastname": "tyson",
+    "age": 50
+  },
+  {
+    "id": 2,
+    "firstname": "floyd",
+    "lastname": "mywether",
+    "age": 42
+  },
+  {
+    "id": 3,
+    "firstname": "conor",
+    "lastname": "mcgregor",
+    "age": 32
+  }
+]
